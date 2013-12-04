@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = Tue 03 Dec 2013 23:17:14 GMT
+
+BeginCmp
+TimeStamp = /529B732A;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CCCD6;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CCCF1;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CCCF5;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CD1A3;
+Reference = C5;
+ValeurCmp = CP1;
+IdModule  = MS-C3528/T;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CD1A9;
+Reference = C6;
+ValeurCmp = CP1;
+IdModule  = MS-C3528/T;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CF777;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CF788;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CF78C;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529CF791;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529DC516;
+Reference = C11;
+ValeurCmp = CP1;
+IdModule  = MS-C3528/T;
+EndCmp
+
+BeginCmp
+TimeStamp = /529A8EED;
+Reference = CONN1;
+ValeurCmp = MS-MDCART;
+IdModule  = MS-MDCART;
+EndCmp
+
+BeginCmp
+TimeStamp = /529C828C;
+Reference = CONN2;
+ValeurCmp = MS-LX9;
+IdModule  = MS-EDGE80/2.00;
+EndCmp
+
+BeginCmp
+TimeStamp = /529A6ED3;
+Reference = DRL1;
+ValeurCmp = MS-NPTH;
+IdModule  = MS-NPTH-6.00;
+EndCmp
+
+BeginCmp
+TimeStamp = /529A6ED7;
+Reference = DRL2;
+ValeurCmp = MS-NPTH;
+IdModule  = MS-NPTH-6.00;
+EndCmp
+
+BeginCmp
+TimeStamp = /529B9329;
+Reference = P1;
+ValeurCmp = DTACK;
+IdModule  = MS-SIL1;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E12A0;
+Reference = P3;
+ValeurCmp = DTACK;
+IdModule  = MS-SIL1;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E0AA8;
+Reference = Q1;
+ValeurCmp = BC848B;
+IdModule  = MS-SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E1207;
+Reference = Q2;
+ValeurCmp = BC848B;
+IdModule  = MS-SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /529DDC27;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E123D;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = MS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E662E;
+Reference = TP1;
+ValeurCmp = TEST_POINT;
+IdModule  = MS-TESTPOINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /529B2CF4;
+Reference = U1;
+ValeurCmp = MS-74ALVC164245;
+IdModule  = MS-SSOP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /529B3C9F;
+Reference = U2;
+ValeurCmp = MS-74ALVC164245;
+IdModule  = MS-SSOP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /529B3C8C;
+Reference = U3;
+ValeurCmp = MS-74ALVC164245;
+IdModule  = MS-SSOP48;
+EndCmp
+
+EndListe

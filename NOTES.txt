@@ -1,0 +1,23 @@
+BILL OF MATERIALS
+-----------------
+
+Qty  Mfg        Part                   Site      Notes  Suggested Source
+3    NXP & TI   74ALVC164245DL         U1-3      [1]
+1    NXP        BC848B                 Q1        [2]    http://www.ebay.com/itm/181091449427
+8    -          470nF 0805 capacitors  C1-4,7-10 [3]    http://www.ebay.com/itm/251025068518
+3    -          22uF EIA3528 tant      C5,6,11   [4]    http://www.ebay.com/itm/160306954443
+1    -          2.2K 0805 resistor     R1
+1    -          4.7K 0805 resistor     R2
+
+
+NOTES
+-----
+
+[1] This is quite common. Make sure you get the DL package.
+
+[2] Any bipolar NPN in SOT-23 with compatible pinout will work. Populate Q1 but
+    leave Q2 unpopulated.
+
+[3] These are decoupling capacitors, so their values are not too important.
+
+[4] The actual value and properties aren't too important; 10uF will do too.
